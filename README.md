@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Alex!
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on cool company
+- 📫 How to reach me - shekspir029@gmail.com
